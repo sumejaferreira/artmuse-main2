@@ -1698,3 +1698,11 @@ ul.main-menu :hover {
 	}
 
 
+	.instrucao {
+		font-family: Georgia, 'Times New Roman', Times, serif;
+		font-size: 20px;
+		padding-left: 24%;
+		padding-top: 3%;
+		padding-bottom: 3%;
+	
+	}
